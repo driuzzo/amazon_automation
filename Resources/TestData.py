@@ -1,5 +1,5 @@
 class TestData():
-    chrome_executable_path = "C:/Users/Adriano/Desktop/backup/Desktop/Git/selenium-scripts/python_work/Amazon/Drivers/chromedriver.exe"
+    chrome_executable_path = "../Drivers/chromedriver.exe"
     base_url = "https://www.amazon.com.br"
     search_term = "WD My Passport 4TB"
     home_page_title = "Amazon"
